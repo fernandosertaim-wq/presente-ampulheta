@@ -6,7 +6,7 @@
 let img;
 let tooltip;        // div HTML que mostra o texto
 let areas = [       // retângulos clicáveis
-  {x:353, y:198, w:330, h:130, texto:"Este sol representa o início de um novo dia."},
+  {x:353, y:198, w:330, h:130, texto:"Este sol representa o início de um novo dia.."},
   {x:480, y:630, w:79,  h:79,  texto:"músicas."},
   {x:365, y:675, w:90,  h:113, texto:"signo."},
   {x:563, y:667, w:84,  h:91,  texto:"Mensagens."},
