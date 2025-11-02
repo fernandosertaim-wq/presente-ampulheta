@@ -6,12 +6,12 @@
 let img;
 let tooltip;        // div HTML que mostra o texto
 let areas = [       // retângulos clicáveis
-  {x:353, y:198, w:330, h:130, texto:"Este sol representa o início de um novo dia.."},
-  {x:480, y:630, w:79,  h:79,  texto:"músicas."},
-  {x:365, y:675, w:90,  h:113, texto:"signo."},
-  {x:563, y:667, w:84,  h:91,  texto:"Mensagens."},
-  {x:470, y:768, w:74,  h:79,  texto:"Strava."},
-  {x:570, y:754, w:69,  h:101, texto:"Flor."}
+  {x:353, y:198, w:330, h:130, texto:"Entre o Sol que parte e a Lua que espera, o tempo não apaga - apenas transforma o que sentimos. E nas voltas da ampulheta, o que era um instante, aprende a ser eternidade."},
+  {x:480, y:630, w:79,  h:79,  texto:"As músicas representam conexão, sintonia, coisas que foram ditas de uma maneira diferente, as vezes ao pé da letra, as vezes não."},
+  {x:365, y:675, w:90,  h:113, texto:"Escorpião, mostra a intensidade, profundidade e a emoção que está oculta, feito para representar também o número 3 e 11"},
+  {x:563, y:667, w:84,  h:91,  texto:"Mensagens representam o ínicio, o presente e também a distância, onde muitas coisas foram ditas, mas muitas ficaram sem serem escritas."},
+  {x:470, y:768, w:74,  h:79,  texto:"Strava, o novo start, o compartilhamento de gostos, desafios e expectativas"},
+  {x:570, y:754, w:69,  h:101, texto:"Flor, representa o carinho, a vunerabilidade da relação, o cuidado e a distância, como em o Pequeno Principe."}
 ];
 
 function preload() {
